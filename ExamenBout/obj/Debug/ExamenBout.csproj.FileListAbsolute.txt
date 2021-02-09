@@ -1,0 +1,7 @@
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\bin\ExamenBout.dll.config
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\bin\ExamenBout.dll
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\bin\ExamenBout.pdb
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\obj\Debug\ExamenBout.csprojAssemblyReference.cache
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\obj\Debug\ExamenBout.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\obj\Debug\ExamenBout.dll
+C:\Users\Allan\source\repos\ExamenBout\ExamenBout\obj\Debug\ExamenBout.pdb
